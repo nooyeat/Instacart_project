@@ -3,3 +3,6 @@ Instacart는 미국의 대표적인 온라인 장보기 플랫폼으로, 수많�
 
 ## 목적
 고객의 과거 구매 행동 데이터를 바탕으로, 특정 제품에 대해 고객이 **재구매 여부를 예측하는 모델을 구현**한다.
+
+## ERD
+![Image](https://github.com/user-attachments/assets/834ff802-5e95-4820-ba7a-2361a076d89a)
